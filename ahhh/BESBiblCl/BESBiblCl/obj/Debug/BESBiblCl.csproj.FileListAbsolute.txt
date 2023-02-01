@@ -3,3 +3,9 @@ C:\Users\student\source\repos\BESBiblCl\BESBiblCl\bin\Debug\BESBiblCl.pdb
 C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.csprojAssemblyReference.cache
 C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.dll
 C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.pdb
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\bin\Debug\BESBiblCl.dll
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\bin\Debug\BESBiblCl.pdb
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.dll
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.pdb

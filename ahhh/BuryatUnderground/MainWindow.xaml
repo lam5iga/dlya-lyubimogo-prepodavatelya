@@ -1,0 +1,48 @@
+﻿<Window x:Class="BuryatUnderground.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuryatUnderground"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="330" VerticalAlignment="Top" Width="171" Background="#9975F1AA" Margin="10,10,0,0">
+            <Label Content="Помещение" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="76"/>
+            <Label Content="Длина" HorizontalAlignment="Left" Height="26" Margin="10,41,0,0" VerticalAlignment="Top" Width="71"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Height="26" Margin="10,72,0,0" VerticalAlignment="Top" Width="71"/>
+            <TextBox x:Name="TBLengthR" HorizontalAlignment="Left" Height="26" Margin="86,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+            <TextBox x:Name="TBWidthR" HorizontalAlignment="Left" Height="26" Margin="86,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="330" VerticalAlignment="Top" Width="252" Background="#999075F1" Margin="538,10,0,0">
+            <Label Content="Список помещений" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="126"/>
+            <Label x:Name="ListRooms" Content="" HorizontalAlignment="Center" Margin="0,41,0,0" VerticalAlignment="Top" Height="279" Width="232"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="330" VerticalAlignment="Top" Width="171" Background="#9975DDF1" Margin="186,10,0,0">
+            <Label Content=" Жилое помещение" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="126"/>
+            <Label Content="Длина" HorizontalAlignment="Left" Height="26" Margin="10,41,0,0" VerticalAlignment="Top" Width="56"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Height="26" Margin="10,72,0,0" VerticalAlignment="Top" Width="56"/>
+            <TextBox x:Name="TBWidthL" HorizontalAlignment="Left" Height="26" Margin="93,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+            <Label Content="Число окон" HorizontalAlignment="Left" Height="26" Margin="10,103,0,0" VerticalAlignment="Top" Width="76"/>
+            <TextBox x:Name="TBNumW" HorizontalAlignment="Left" Height="26" Margin="93,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+            <TextBox x:Name="TBLengthL" HorizontalAlignment="Left" Height="26" Margin="93,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="330" VerticalAlignment="Top" Width="171" Background="#99F1D075" Margin="362,10,0,0">
+            <Label Content="Офис" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="56"/>
+            <Label Content="Длина" HorizontalAlignment="Left" Height="26" Margin="10,41,0,0" VerticalAlignment="Top" Width="56"/>
+            <Label Content="Ширина" HorizontalAlignment="Left" Height="26" Margin="10,72,0,0" VerticalAlignment="Top" Width="56"/>
+            <Label Content="Число окон" HorizontalAlignment="Left" Height="26" Margin="10,103,0,0" VerticalAlignment="Top" Width="76"/>
+            <TextBox x:Name="TBLengthO" HorizontalAlignment="Left" Height="26" Margin="93,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+            <TextBox x:Name="TBWidthO" HorizontalAlignment="Left" Height="26" Margin="93,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+            <TextBox x:Name="TBNumS" HorizontalAlignment="Left" Height="26" Margin="93,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,1.348"/>
+
+        </Grid>
+        <Button x:Name="BAddRoom" Content="Добавить" HorizontalAlignment="Left" Margin="16,381,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BAddLivingRoom" Content="Добавить" HorizontalAlignment="Left" Margin="192,381,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BAddOffice" Content="Добавить" HorizontalAlignment="Left" Margin="368,381,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BGetList" Content="Выдать" HorizontalAlignment="Left" Margin="642,381,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

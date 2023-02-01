@@ -53,6 +53,15 @@ namespace BESBiblCl
     {
         int numSockets;
         public int Numsockets
-        { get { return numSockets } set { } }
+        { get { return numSockets; } set { numSockets = value; } }
+        public int NumWorkplaces()
+        {
+            int num = Convert.ToInt32(Math.Truncate(RoomArea() / 4.5));
+            return Math.Min(numSockets, num);
+        }
+        public string Info()
+        {
+            return "Офис на " + NumWorkplaces() + " рабочих мест";
+        }
     }
 }
