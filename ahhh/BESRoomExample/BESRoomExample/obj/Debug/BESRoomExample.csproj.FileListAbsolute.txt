@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\bin\Debug\BESRoomExample.exe.config
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\bin\Debug\BESRoomExample.exe
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\bin\Debug\BESRoomExample.pdb
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\bin\Debug\BESBiblCl.dll
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\bin\Debug\BESBiblCl.pdb
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\App.g.cs
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample_MarkupCompile.cache
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample_MarkupCompile.lref
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.g.resources
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.Properties.Resources.resources
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.csproj.CopyComplete
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.exe
+C:\Users\student\source\repos\BESRoomExample\BESRoomExample\obj\Debug\BESRoomExample.pdb

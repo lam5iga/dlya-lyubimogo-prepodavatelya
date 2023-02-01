@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\BESBiblCl\BESBiblCl\bin\Debug\BESBiblCl.dll
+C:\Users\student\source\repos\BESBiblCl\BESBiblCl\bin\Debug\BESBiblCl.pdb
+C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.dll
+C:\Users\student\source\repos\BESBiblCl\BESBiblCl\obj\Debug\BESBiblCl.pdb
